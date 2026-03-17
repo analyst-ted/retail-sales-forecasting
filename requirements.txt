@@ -1,0 +1,28 @@
+# Data manipulation
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Time Series Models
+statsmodels
+prophet
+
+# Deep Learning
+tensorflow
+
+# Machine Learning
+scikit-learn
+
+# Model serialization
+joblib
+
+# Web application
+streamlit
+
+# Notebook support
+jupyter
+ipykernel

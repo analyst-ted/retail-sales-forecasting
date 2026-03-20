@@ -10,10 +10,6 @@ data/processed/model_comparison.csv
 data/processed/oil_clean.csv
 
 # Model files
-models/*.pkl
-models/*.keras
-models/*.h5
-models/*.json
 
 # Mac files
 .DS_Store

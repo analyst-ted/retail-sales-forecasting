@@ -3,6 +3,11 @@ venv/
 
 # Data files
 data/raw/
+data/processed/train_clean.csv
+data/processed/daily_sales_store1.csv
+data/processed/metrics_summary.csv
+data/processed/model_comparison.csv
+data/processed/oil_clean.csv
 
 # Model files
 models/*.pkl

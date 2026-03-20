@@ -3,7 +3,6 @@ venv/
 
 # Data files
 data/raw/
-data/processed/
 
 # Model files
 models/*.pkl

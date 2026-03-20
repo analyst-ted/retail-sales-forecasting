@@ -8,7 +8,7 @@
 A complete end-to-end time series forecasting project comparing
 ARIMA, Prophet and LSTM on real retail sales data from Ecuador.
 
-🔗 **[Live App →](YOUR_STREAMLIT_URL)**
+🔗 **[Live App →](https://retail-sales-forecasting-arup-roy.streamlit.app)**
 
 ---
 
